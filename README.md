@@ -1,6 +1,6 @@
 # SKY PRIME PIXELS
-Unity 2D弾幕シューティングゲーム 
-公開ページ => 近日公開予定
+Unity 2D弾幕シューティングゲーム  
+公開ページ => 近日公開予定  
 デモ動画 => https://youtu.be/rLIN28-TdCY
 
 # 目次
