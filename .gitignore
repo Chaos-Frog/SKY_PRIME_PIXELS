@@ -9,6 +9,7 @@
 /obj
 /Packages
 /ProjectSettings
+/Temp
 
 *.meta
 /Assets/*
