@@ -81,7 +81,7 @@ public class TitleManager : MonoBehaviour {
                 count = (count + 1) % 3;
             }
             time += Time.deltaTime;
-            volume = bgm_spec.volume.Select(x => x * x).Sum() / bgm_spec.volume.Length;
+            volume = bgm_spec.spectrum.Select(x => x * 40).Sum() / bgm_spec.spectrum.Length;
         }
     }
 
