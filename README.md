@@ -1,6 +1,7 @@
 # SKY PRIME PIXELS
 Unity 2D弾幕シューティングゲーム  
-公開ページ => 近日公開予定  
+公開ページ => https://unityroom.com/games/s_p_p
+PV動画 => https://www.youtube.com/watch?v=EV7zENyj-Ek
 デモ動画 => https://youtu.be/UtoP92JoyrE
 
 # 目次
